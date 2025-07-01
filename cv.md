@@ -1,9 +1,10 @@
 # Veronica Bystritskaya
 ## Junior Frontend Developer
 ## Contact information:
-**Phone**: +375 29 0000000 \
-**E-mail**: email@gmail.com \
-[Linkedin](https://ru.linkedin.com/)
+**Phone**: +375293465467 \
+**E-mail**: veronicabystritskaya@gmail.com \
+**Discord**: veronicabystr \
+[Linkedin](hhttps://www.linkedin.com/in/veronica-bystritskaya-2b03a274/)
 
 ## Briefly about myself
 Hi! I’m Veronica, and I’ve spent the past few years working in the marketing department of a large company, where I grew from a specialist to the Head of the Foreign Marketing Department.
@@ -22,6 +23,13 @@ Right now, I’m actively building my portfolio. I believe my unique mix of soft
 * VS Code
 * Python
 
+## Code example:
+Complete the solution so that it reverses the string passed into it.
+```javascript
+function solution(str){ 
+   return str.split('').reverse().join('');
+}
+```
 ## Courses:
 * **HTML** and **CSS** Courses on [Codecademy](https://www.codecademy.com/)
 * **Python** on [Coursera](https://www.coursera.org/)
