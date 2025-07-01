@@ -1,7 +1,7 @@
 # Veronica Bystritskaya
 ## Junior Frontend Developer
 ## Contact information:
-**Phone**: +38 987 4594003 \
+**Phone**: +375 29 0000000 \
 **E-mail**: email@gmail.com \
 [Linkedin](https://ru.linkedin.com/)
 
@@ -23,14 +23,14 @@ Right now, I’m actively building my portfolio. I believe my unique mix of soft
 * Python
 
 ## Courses:
-* HTML and CSS Courses on [Codecademy](https://www.codecademy.com/)
-* Python on [Coursera](https://www.coursera.org/)
-* JavaScript Manual on www.learnjavascript.ru (in progress)
+* **HTML** and **CSS** Courses on [Codecademy](https://www.codecademy.com/)
+* **Python** on [Coursera](https://www.coursera.org/)
+* **JavaScript** Manual on www.learnjavascript.ru (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## Languages:
-* English - C2 (Proficient) according to the online test at [Efset](https://www.efset.org/4-skill/)
-!(/Users/veronickabystritskaya/Desktop/rolling\ scopes/rsschool-cv/english_test_result.png)
-* German - A2
-* Russian - Native
-* Belarusian - Native 
+* **English** - C2 (Proficient) according to the online test at [Efset](https://www.efset.org/4-skill/)
+![My english test result](english_test_result.png)
+* **German** - A2
+* **Russian** - Native
+* **Belarusian** - Native 
