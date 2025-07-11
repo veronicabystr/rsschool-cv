@@ -3,9 +3,96 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>cv</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="assets/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap" rel="stylesheet">
 </head>
 <body>
-
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#contact_information" class="nav-link">Contact information</a></li>
+                    <li class="nav-item"><a href="#briefly_about_myself" class="nav-link">Briefly about myself</a></li>
+                    <li class="nav-item"><a href="#skills_and_proficiency" class="nav-link">Skills and proficiency</a></li>
+                    <li class="nav-item"><a href="#code_example" class="nav-link">Code example</a></li>
+                    <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+                    <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main class="main main-container">
+        <div class="container">
+            <section class="section" id="profile">
+                <h1 class="section-title">Veronica Bystritskaya</h1>
+                <img class="my-photo" src="assets/my-photo.jpeg" alt="Profile photo">
+            </section>
+            <section class="section" id="contact_information">
+                <h2 class="section-title">Contact info</h2>
+                    <ul class="contact-list">
+                        <li class="contact-item">Phone: +37529*******</li>
+                        <li class="contact-item">E-mail: vb@gmail.com</li>
+                        <li class="contact-item">Discord: veronicabystr</li>
+                        <li class="contact-item"><a href="https://www.linkedin.com/in/veronica-bystritskaya-2b03a274/">Linkedin</a></li>
+                    </ul>
+            </section>
+            <section class="section" id="briefly_about_myself">
+                <h2 class="section-title">Briefly about myself</h2>
+                <p>Hi! I’m Veronica, and I’ve spent the past few years working in the marketing department of a large company, where I grew from a specialist to the Head of the Foreign Marketing Department.<br>
+                    My daily work involved sales planning, conflict resolution, and managing a team — so I learned how to communicate clearly, solve problems fast, and adapt to new challenges.
+                    While I loved the creative side of marketing, I realized that what truly excites me is building things and seeing how ideas become real.<br>That’s why I decided to change my career path and become a web developer.
+                    I’m now focused on frontend development: learning HTML, CSS, JavaScript, and everything I need to create beautiful and functional websites. I’m not afraid to start from scratch — I see it as an opportunity to grow my skills, combine my marketing background with tech, and create projects that people will love to use.<br>
+                    Right now, I’m actively building my portfolio. I believe my unique mix of soft skills, creativity, and dedication will help me become a great developer.</p>
+            </section>
+            <section class="section" id="skills_and_proficiency">
+                <h2 class="section-title">Skills and proficiency</h2>
+                <ul class="skill-list">
+                    <li class="skill-item">HTML5, CSS3</li>
+                    <li class="skill-item">JavaScript Basics</li>
+                    <li class="skill-item">Git, GitHub</li>
+                    <li class="skill-item">VS Code</li>
+                    <li class="skill-item">Python</li>
+                </ul>
+            </section>
+            <section class="section" id="code_example">
+                <h2 class="section-title">Code example</h2>
+                <p> Complete the solution so that it reverses the string passed into it.</p>
+                    <pre><code>
+            function solution(str){ 
+                return str.split('').reverse().join('');
+            }
+                        </code></pre>
+                
+            </section>
+            <section class="section" id="courses">
+                <h2 class="section-title">Courses</h2>
+                <ul class="courses-list">
+                    <li class="courses-item">HTML and CSS Courses on <a href="https://www.codecademy.com/">Codecademy</a></li>
+                    <li class="courses-item">Python on <a href="https://www.coursera.org/">Coursera</a></li>
+                    <li class="courses-item">JavaScript Manual on www.learnjavascript.ru (in progress)</li>
+                    <li class="courses-item">RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)</li>
+                </ul>
+            </section>
+            <section class="section" id="languages">
+                <h2 class="section-title">Languages</h2>
+                <ul class="lang-list">
+                    <li class="lang-item">English - C2 according to the online test at 
+                        <a href="https://www.efset.org/">Efset</a><br>
+                        <img class="test-img" src="assets/english_test_result.png" alt="English Test Result">
+                    </li>
+                    <li class="lang-item">German - A2</li>
+                    <li class="lang-item">Russian - Native</li>
+                    <li class="lang-item">Belarusian** - Native </li>
+                </ul>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container"></div>
+    </footer>
 </body>
 </html>

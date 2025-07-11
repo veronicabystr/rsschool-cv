@@ -4,7 +4,7 @@
 **Phone**: +375293465467 \
 **E-mail**: veronicabystritskaya@gmail.com \
 **Discord**: veronicabystr \
-[Linkedin](hhttps://www.linkedin.com/in/veronica-bystritskaya-2b03a274/)
+[Linkedin](https://www.linkedin.com/in/veronica-bystritskaya-2b03a274/)
 
 ## Briefly about myself
 Hi! I’m Veronica, and I’ve spent the past few years working in the marketing department of a large company, where I grew from a specialist to the Head of the Foreign Marketing Department.
